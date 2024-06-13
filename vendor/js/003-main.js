@@ -1,3 +1,7 @@
-let krestniJmeno = prompt ("Jaké je vaše křestní jméno?");
-alert(krestniJmeno)
-console.log(krestniJmeno);
+let krestniJmeno = prompt ("Vaše křestní jméno?");
+let ahoj = prompt ("Ahoj")
+ 
+console.log(ahoj)
+console.log(krestniJmeno)
+
+console.log(krestniJmeno +" "+ ahoj);
