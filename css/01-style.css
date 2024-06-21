@@ -1,0 +1,38 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+}
+
+h1 {
+   font-size: 32px;
+   color: darkorange; 
+}
+
+    .kolecko {
+        height: 200px;
+        width: 200px;
+        background-color: aquamarine;
+        border-radius: 50%;
+        opacity: 20%;
+        display: none;
+    }
+
+
+#kocka {
+    background-color: indianred;
+}
+
+.zlevneno {
+    color: lemonchiffon;
+    background-color: black;
+}
+
+.cerna .mys {
+    background-color: gray;
+    color: black;
+}
+
+.bila .mys {
+    background-color: gray;
+    color: white;
+}
